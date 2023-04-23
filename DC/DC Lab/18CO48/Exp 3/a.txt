@@ -1,0 +1,6 @@
+Socket successfully created..
+Socket successfully binded..
+Server listening..
+Server accepted the client..
+From client: Artificial
+		To client: Intelligence
